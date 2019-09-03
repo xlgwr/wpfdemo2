@@ -1,7 +1,7 @@
 # wpfdemo2
 dev grid 自定义 layout
 
-# 隐藏表头右键菜单,其它显示
+## 隐藏表头右键菜单,其它显示
 ```     
 gridControl.View.ShowGridMenu += View_ShowGridMenu;           
 /// <summary>
